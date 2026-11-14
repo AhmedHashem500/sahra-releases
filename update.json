@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.ahmed.sahra",
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.7/sahra-1.7.apk",
-  "sha256": "258645a38d4210b0315ca31b844394f372f8af5bf68f889632d759b9c1bfce8b",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.8/sahra-1.8.apk",
+  "sha256": "a3f450ea36b66f878080561ac0d8a7a4b7383c618fd3a6f819d7b0ce68fe663a",
   "sizeBytes": 284122,
   "minSdk": 24,
-  "notes": "مشاهدة على التليفزيون بقت تشغّل على نفس حساب الموبايل",
+  "notes": "تابع المشاهدة بقى لكل حساب لوحده ومن غير تكرار",
   "mandatory": false,
-  "publishedAt": "2026-11-14T18:39:24Z"
+  "publishedAt": "2026-11-14T18:49:00Z"
 }
