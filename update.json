@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.ahmed.sahra",
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.4/sahra-1.4.apk",
-  "sha256": "0bffeb9a737302eae0b44b19dabc6aa4b3b48415c7d6ca25440c39f5a695acb7",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.5/sahra-1.5.apk",
+  "sha256": "0d3bfb86c3ea87c5e45f8c571b1353588e0de0946f5720a685ba105bca537575",
   "sizeBytes": 284122,
   "minSdk": 24,
-  "notes": "تجربة التحديث من غير كابل",
+  "notes": "الشاشة بقت تحت شريط الساعة مظبوط، والأقسام بتختارها من ليستة",
   "mandatory": false,
-  "publishedAt": "2026-11-14T13:49:57Z"
+  "publishedAt": "2026-11-14T14:05:33Z"
 }
