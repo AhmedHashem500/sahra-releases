@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.ahmed.sahra",
-  "versionCode": 27,
-  "versionName": "1.26",
-  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.26/sahra-1.26.apk",
-  "sha256": "0e94dd03d2c4fbd3c77dc1c190026ca85bea639e5967ddcd269637809ef09eb1",
-  "sizeBytes": 2721379,
+  "versionCode": 28,
+  "versionName": "1.27",
+  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.27/sahra-1.27.apk",
+  "sha256": "bfddbadd3a1ac4c0843accde6c277b9ce4199f9d38c9d510ed9828d1dd8e5292",
+  "sizeBytes": 2737763,
   "minSdk": 24,
-  "notes": "الكاست بيلقط الفيديو من غير ما تشغله",
+  "notes": "كاست أوضح: ليستة فيديوهات جديدة، ريموت جديد، رسايل خطأ بالسبب الحقيقي، وتشغيل مواقع جديدة على التليفزيون",
   "mandatory": false,
-  "publishedAt": "2026-11-15T21:14:03Z"
+  "publishedAt": "2026-11-15T23:28:56Z"
 }
