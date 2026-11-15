@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.ahmed.sahra",
-  "versionCode": 26,
-  "versionName": "1.25",
-  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.25/sahra-1.25.apk",
-  "sha256": "3fd3e895cba14ca1939535163c90de543e15c7ebcbc3a4e4738fdbfd041b28ac",
-  "sizeBytes": 2717283,
+  "versionCode": 27,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.26/sahra-1.26.apk",
+  "sha256": "0e94dd03d2c4fbd3c77dc1c190026ca85bea639e5967ddcd269637809ef09eb1",
+  "sizeBytes": 2721379,
   "minSdk": 24,
-  "notes": "شريط المتصفح بقى تحت الساعة مش فوقها",
+  "notes": "الكاست بيلقط الفيديو من غير ما تشغله",
   "mandatory": false,
-  "publishedAt": "2026-11-15T20:56:33Z"
+  "publishedAt": "2026-11-15T21:14:03Z"
 }
