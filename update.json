@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.ahmed.sahra",
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.9/sahra-1.9.apk",
-  "sha256": "b05a20266ea44a3d7589adfc4d4f3822edc677660847db4533685848f7bb5065",
-  "sizeBytes": 288218,
+  "versionCode": 26,
+  "versionName": "1.25",
+  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.25/sahra-1.25.apk",
+  "sha256": "3fd3e895cba14ca1939535163c90de543e15c7ebcbc3a4e4738fdbfd041b28ac",
+  "sizeBytes": 2717283,
   "minSdk": 24,
-  "notes": "نسخة انتقالية: التحديثات بقت من سيرفر العيلة البرايفت. افتح الأبلكيشن واكتب الكود من موبايل صاحب البيت مرة واحدة.",
+  "notes": "شريط المتصفح بقى تحت الساعة مش فوقها",
   "mandatory": false,
-  "publishedAt": "2026-11-14T22:56:17Z"
+  "publishedAt": "2026-11-15T20:56:33Z"
 }
