@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.ahmed.sahra",
-  "versionCode": 28,
-  "versionName": "1.27",
-  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.27/sahra-1.27.apk",
-  "sha256": "bfddbadd3a1ac4c0843accde6c277b9ce4199f9d38c9d510ed9828d1dd8e5292",
+  "versionCode": 29,
+  "versionName": "1.28",
+  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.28/sahra-1.28.apk",
+  "sha256": "168675c81c99acfa1286a2ae751684b8dfab08479f893274087de2b57fae2a73",
   "sizeBytes": 2737763,
   "minSdk": 24,
-  "notes": "كاست أوضح: ليستة فيديوهات جديدة، ريموت جديد، رسايل خطأ بالسبب الحقيقي، وتشغيل مواقع جديدة على التليفزيون",
+  "notes": "أول مرة تفتح سهرة بتدخل على طول، ولو مفيش نت بتقولك تجرب تاني",
   "mandatory": false,
-  "publishedAt": "2026-11-15T23:28:56Z"
+  "publishedAt": "2026-11-16T02:36:31Z"
 }
