@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.ahmed.sahra",
-  "versionCode": 29,
-  "versionName": "1.28",
-  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.28/sahra-1.28.apk",
-  "sha256": "168675c81c99acfa1286a2ae751684b8dfab08479f893274087de2b57fae2a73",
-  "sizeBytes": 2737763,
+  "versionCode": 30,
+  "versionName": "1.29",
+  "apkUrl": "https://github.com/AhmedHashem500/sahra-releases/releases/download/v1.29/sahra-1.29.apk",
+  "sha256": "2f0295e790980806625ca2b739b94b2d013f5dc8d22409f62e339426b2d8467a",
+  "sizeBytes": 2713116,
   "minSdk": 24,
-  "notes": "أول مرة تفتح سهرة بتدخل على طول، ولو مفيش نت بتقولك تجرب تاني",
+  "notes": "لو فيلم أو حلقة مااشتغلتش، سهرة تشغلها من اشتراك تاني لوحدها",
   "mandatory": false,
-  "publishedAt": "2026-11-16T02:36:31Z"
+  "publishedAt": "2026-11-16T21:36:34Z"
 }
